@@ -1,6 +1,6 @@
 # Competitive Tetris
 
-To view my python code click here: [/Project/Project/Competitive%20Tetris.py](https://github.com/YounisSalma/Competitive-Tetris/blob/master/Project/Project/Competitive%20Tetris.py)
+To view my python code click here: [Competitive Tetris.py](https://github.com/YounisSalma/Competitive-Tetris/blob/master/Project/Project/Competitive%20Tetris.py)
 
 This game was designed using wireframes and built in Python using PyGame. 
 
